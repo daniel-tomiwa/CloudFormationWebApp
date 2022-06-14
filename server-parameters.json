@@ -5,6 +5,6 @@
 	},
 	{
 		"ParameterKey": "ImageInstanceType",
-		"ParameterValue": "t2.medium"
+		"ParameterValue": "t3.medium"
 	}
 ]
